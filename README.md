@@ -94,7 +94,7 @@
         &nbsp;
         <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" height="35">
         &nbsp;
-        <!-- <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35"> -->
+        <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
       </td>
       <td align="center" valign="top">
         <h3><strong>Coding</strong></h3>
