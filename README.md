@@ -38,7 +38,7 @@
         <hr>
         <a href="https://www.root-me.org/anska"><strong>root-me.org/anska</strong></a>
         <br>
-        <a href="https://tryhackme.com/p/anska"><strong>tryhackme.com/anska</strong></a>
+        <a href="https://tryhackme.com/p/Anska"><strong>tryhackme.com/anska</strong></a>
         <br>
         <a href="https://app.hackthebox.com/users/2283278"><strong>hackthebox/anska</strong></a>
         <br>
@@ -94,7 +94,7 @@
         &nbsp;
         <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" height="35">
         &nbsp;
-        <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
+        <!-- <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35"> -->
       </td>
       <td align="center" valign="top">
         <h3><strong>Coding</strong></h3>
