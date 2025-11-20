@@ -30,7 +30,7 @@
 </div>
 <h2></h2>
 <div>
-  <div align="left">
+  <div align="center">
     <h3><strong>CTF</strong></h3>
     <a href="https://www.root-me.org/anska"><strong>root-me</strong></a>
     <br>
