@@ -30,24 +30,7 @@
 </div>
 <h2></h2>
 <div>
-  <div align="center">
-    <h3><strong>CTF</strong></h3>
-    <a href="https://www.root-me.org/anska"><strong>root-me</strong></a>
-    <br>
-    <a href="https://tryhackme.com/p/Anska"><strong>tryhackme</strong></a>
-    <br>
-    <a href="https://app.hackthebox.com/users/2283278"><strong>hackthebox</strong></a>
-    <br>
-    <a href="https://cryptohack.org/user/anska/"><strong>cryptohack</strong></a>
-    <br>
-    <a href="https://www.42ctf.org/en/accounts/profile/anska?"><strong>42ctf</strong></a>
-    <h3><strong>Algo</strong></h3>
-    <a href="https://leetcode.com/u/anska-lc/"><strong>leetcode</strong></a>
-    <br>
-    <a href="https://www.codingame.com/profile/6160140ea161f06ea18df960622d480e6694884"><strong>codingame</strong></a>
-    <br>
-    <a href="https://www.codewars.com/users/anska"><strong>codewars</strong></a>
-    <br>
+  <div align="left">
     <h3><strong>Technology</strong></h3>
     <h4><strong>Language</strong></h4>
     &nbsp;
@@ -87,6 +70,22 @@
     &nbsp;
     <img src="asset/workflow/drawio.svg" title="Drawio" alt="Drawio" height="35">
     <br>
+    <h3><strong>CTF</strong></h3>
+    <a href="https://www.root-me.org/anska"><strong>root-me</strong></a>
+    |
+    <a href="https://tryhackme.com/p/Anska"><strong>tryhackme</strong></a>
+    |
+    <a href="https://app.hackthebox.com/users/2283278"><strong>hackthebox</strong></a>
+    |
+    <a href="https://cryptohack.org/user/anska/"><strong>cryptohack</strong></a>
+    |
+    <a href="https://www.42ctf.org/en/accounts/profile/anska?"><strong>42ctf</strong></a>
+    <h3><strong>Algo</strong></h3>
+    <a href="https://leetcode.com/u/anska-lc/"><strong>leetcode</strong></a>
+    |
+    <a href="https://www.codingame.com/profile/6160140ea161f06ea18df960622d480e6694884"><strong>codingame</strong></a>
+    |
+    <a href="https://www.codewars.com/users/anska"><strong>codewars</strong></a>
 </div>
 <h2></h2>
 <div align="center">
