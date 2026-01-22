@@ -78,7 +78,7 @@
     <a href="https://www.codingame.com/profile/6160140ea161f06ea18df960622d480e6694884"><strong>codingame</strong></a>
     |
     <a href="https://www.codewars.com/users/anska"><strong>codewars</strong></a>
-    <br>
+    <br><br>
     <h2></h2>
     <div align="center">
       <a href="https://anska.dev"><strong>anska.dev</strong></a>
