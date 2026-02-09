@@ -71,6 +71,8 @@
     |
     <a href="https://cryptohack.org/user/anska/"><strong>cryptohack</strong></a>
     |
+    <a href="https://pwn.college/hacker/155370"><strong>pwn.college</strong></a>
+    |
     <a href="https://www.42ctf.org/en/accounts/profile/anska?"><strong>42ctf</strong></a>
     <h3><strong>Algo</strong></h3>
     <a href="https://leetcode.com/u/anska-lc/"><strong>leetcode</strong></a>
