@@ -104,10 +104,8 @@
     |
     &nbsp;
     <a href="https://www.codewars.com/users/anska"><strong>codewars</strong></a>
-    <br>
-    <h2></h2>
+    <br><br><br><br>
     <div align="center">
       <a href="https://anska.dev"><strong>anska.dev</strong></a>
     </div>
-    <br>
 </div>
