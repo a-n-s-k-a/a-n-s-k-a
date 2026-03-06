@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="asset/flow.gif" title="Flow" alt="Flow">
+<img align="center" width="1000" src="asset/flow.gif">
 <div align="center">
     <h3><strong>Project</strong></h3>
     <h4><strong>42</strong></h4>
